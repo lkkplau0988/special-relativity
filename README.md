@@ -3,3 +3,5 @@ this simulation is supposed to demonstrate time dialation relating to einstein's
 
 test for push
 pull test is now doing
+
+pull function ok
