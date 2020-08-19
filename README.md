@@ -5,3 +5,5 @@ test for push
 pull test is now doing
 
 pull function ok
+
+test from peter 19-8-20
